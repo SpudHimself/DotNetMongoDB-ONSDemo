@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6nGBxpoF2PnLupZFvt0LMKn2MrBVjRILSETn1gaHdr4=",
+  "Source": "CensusApi",
+  "BasePath": "_content/CensusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
